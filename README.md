@@ -1,0 +1,2 @@
+# buildversion
+Minimized semver
